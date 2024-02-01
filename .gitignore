@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 utils_unpackaged.Rproj
+.httr-oauth
